@@ -33,7 +33,7 @@
                 <artifactId>dockerfile-maven-plugin</artifactId>
                 <version>1.4.12</version>
                 <configuration>
-                    <repository>${project.artifactId}</repository>
+                    <repository>microservice_eureka</repository>
                     <buildArgs>
                         <jar_file>target/${project.build.finalName}.jar</jar_file>
                     </buildArgs>
