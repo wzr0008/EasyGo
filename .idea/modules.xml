@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EasyGo.iml" filepath="$PROJECT_DIR$/EasyGo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MicroService_Dispatch/MicroService_Dispatch.iml" filepath="$PROJECT_DIR$/MicroService_Dispatch/MicroService_Dispatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MicroService_Driver/MicroService_Driver.iml" filepath="$PROJECT_DIR$/MicroService_Driver/MicroService_Driver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MicroService_Eureka/MicroService_Eureka.iml" filepath="$PROJECT_DIR$/MicroService_Eureka/MicroService_Eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MicroService_Order/MicroService_Order.iml" filepath="$PROJECT_DIR$/MicroService_Order/MicroService_Order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MicroService_Trip/MicroService_Trip.iml" filepath="$PROJECT_DIR$/MicroService_Trip/MicroService_Trip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MicroService_User/MicroService_User.iml" filepath="$PROJECT_DIR$/MicroService_User/MicroService_User.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MicroService_Zuul/MicroService_Zuul.iml" filepath="$PROJECT_DIR$/MicroService_Zuul/MicroService_Zuul.iml" />
+    </modules>
+  </component>
+</project>
