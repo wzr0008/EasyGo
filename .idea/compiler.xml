@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="MicroService_Dispatch" />
+        <module name="MicroService_User" />
+        <module name="MicroService_Eureka" />
+        <module name="MicroService_Driver" />
+        <module name="MicroService_Order" />
+        <module name="MicroService_Trip" />
+        <module name="MicroService_Zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="EasyGo" target="8" />
+      <module name="MicroService_Dispatch" target="8" />
+      <module name="MicroService_Driver" target="8" />
+      <module name="MicroService_Eureka" target="8" />
+      <module name="MicroService_Location" target="8" />
+      <module name="MicroService_Order" target="8" />
+      <module name="MicroService_Trip" target="8" />
+      <module name="MicroService_User" target="8" />
+      <module name="MicroService_Zuul" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="EasyGo" options="-parameters" />
+      <module name="MicroService_Dispatch" options="-parameters" />
+      <module name="MicroService_Driver" options="-parameters" />
+      <module name="MicroService_Eureka" options="-parameters" />
+      <module name="MicroService_Location" options="-parameters" />
+      <module name="MicroService_Order" options="-parameters" />
+      <module name="MicroService_Trip" options="-parameters" />
+      <module name="MicroService_User" options="-parameters" />
+      <module name="MicroService_Zuul" options="-parameters" />
+    </option>
+  </component>
+</project>
