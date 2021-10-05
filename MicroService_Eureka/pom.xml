@@ -35,7 +35,7 @@
                 <configuration>
                     <repository>${project.artifactId}</repository>
                     <buildArgs>
-                        <jar_file>target/${project.build.finalName}</jar_file>
+                        <jar_file>target/${project.build.finalName}.jar</jar_file>
                     </buildArgs>
                 </configuration>
             </plugin>
